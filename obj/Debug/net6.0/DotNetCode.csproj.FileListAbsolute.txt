@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\DotNetCode\bin\Debug\net6.0\DotNetCode.exe
+C:\Users\Admin\OneDrive\DotNetCode\bin\Debug\net6.0\DotNetCode.deps.json
+C:\Users\Admin\OneDrive\DotNetCode\bin\Debug\net6.0\DotNetCode.runtimeconfig.json
+C:\Users\Admin\OneDrive\DotNetCode\bin\Debug\net6.0\DotNetCode.dll
+C:\Users\Admin\OneDrive\DotNetCode\bin\Debug\net6.0\DotNetCode.pdb
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.dll
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\refint\DotNetCode.dll
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.pdb
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\DotNetCode.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\DotNetCode\obj\Debug\net6.0\ref\DotNetCode.dll
